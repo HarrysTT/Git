@@ -99,6 +99,9 @@ public class LoginActivity extends AppCompatActivity implements LoaderCallbacks<
     private void gitUser(){
     }
 
+    private void gitUser2(){
+    }
+
     private void populateAutoComplete() {
         if (!mayRequestContacts()) {
             return;
